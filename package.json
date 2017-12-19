@@ -1,0 +1,19 @@
+{
+  "name": "tracker-server",
+  "version": "1.0.0",
+  "description": "Product tracking server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kama1/tracker-server.git"
+  },
+  "author": "Kamal Rahmati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kama1/tracker-server/issues"
+  },
+  "homepage": "https://github.com/kama1/tracker-server#readme"
+}
